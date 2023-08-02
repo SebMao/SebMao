@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SebMao
-- 👀 I’m interested in ball sports and progressive rock music
-- 🌱 I’m currently learning control theory and learning algorithm
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in basketball and progressive rock music
+- 🌱 I’m currently learning control theory and robotics
 - 📫 How to reach me ...   mkxcarpediem@gmail.com
 
 <!---
