@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebMao
 - 👀 I’m interested in basketball and progressive rock music
 - 🌱 I’m currently learning control theory and robotics
-- 📫 How to reach me ...   mkxcarpediem@gmail.com
+- 📫 How to reach me ...   
 
 <!---
 SebMao/SebMao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
